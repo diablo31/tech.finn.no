@@ -14,7 +14,7 @@ tags:
 
 In January we started on an ambitious project called "the Strap-on project". The infantile name aside this project is about rewriting our entire front-end tier using [Object Oriented CSS (OOCSS)](http://oocss.org/), written by [Nicole Sulivan](http://www.stubbornella.org/), as the secret sauce to achieving the desired results.
 
-## Why OOCSS?
+## Why OOCSS???
 
 At FINN we have teams grouped by business units and all of them have developers who contribute with code on our site. This is provided us with a head ache with CSS, because there are no clear idioms for how to best write CSS. In our case this had cause teams to create their own "islands" of CSS by using # trails, train wreck selector classes and !important-wars. Teams had duplicate CSS for the same layout and we had a hard time keeping the user experience consistent across different parts of our service.
 
